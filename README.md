@@ -15,5 +15,8 @@
 - ![355992](https://user-images.githubusercontent.com/44758448/127097781-e1b0707a-c3c5-4e59-bdc5-b9ffcae8bf79.png) How to reach me: weslleysouza22@gmail.com
 **<h1>Languages and Tools:</h1>**
 ![1](https://user-images.githubusercontent.com/44758448/127243526-aeea661c-a73c-490f-b8ac-5f330f2c0d36.png)
----
+<h1>Github Stats</h1>
+
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weslleycz)](https://github.com/anuraghazra/github-readme-stats)
