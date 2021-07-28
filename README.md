@@ -16,6 +16,4 @@
 **<h1>Languages and Tools:</h1>**
 ![1](https://user-images.githubusercontent.com/44758448/127243526-aeea661c-a73c-490f-b8ac-5f330f2c0d36.png)
 ---
-<details>
-   
-  </details>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weslleycz)](https://github.com/anuraghazra/github-readme-stats)
