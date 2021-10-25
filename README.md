@@ -4,7 +4,7 @@
 <br/>
 
 
-![1](https://user-images.githubusercontent.com/44758448/138774816-ca055e56-4a26-4d8e-b4d7-7ff9371a38f9.png)
+![1](https://user-images.githubusercontent.com/44758448/138775587-ca577a59-afeb-4649-a8db-1b640ea35d3b.png)
 **<h1>Connect with me:</h1>**
 <a href="https://weslleycz.github.io"> <img align="left" alt="Francisco Weslley | Portfolio" width="40px" src="https://user-images.githubusercontent.com/44758448/127093127-ec7e2a15-f274-499d-a23d-a049ffcaa0f6.png" /> </a>
 <a href="https://www.linkedin.com/in/francisco-weslley/"><img align="left" alt="Francisco Weslleya | LinkedIn" width="40px" src="https://user-images.githubusercontent.com/44758448/127091725-2f9a1685-4cd6-4438-be38-2e7846fd71fd.png" /></a>
