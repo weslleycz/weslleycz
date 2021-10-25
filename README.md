@@ -11,7 +11,7 @@
 <a href="https://twitter.com/Goik69470460"><img align="left" alt="Francisco Weslley | Twitter" width="40px" src="https://user-images.githubusercontent.com/44758448/127386771-4dc655e6-7ad7-44ba-8db6-686937df2f8a.png" /></a>
 <br>
 </br>
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **React JS**
 - ![355992](https://user-images.githubusercontent.com/44758448/127097781-e1b0707a-c3c5-4e59-bdc5-b9ffcae8bf79.png) How to reach me: weslleysouza22@gmail.com
 **<h1>Languages and Tools:</h1>**
 ![1](https://user-images.githubusercontent.com/44758448/127243526-aeea661c-a73c-490f-b8ac-5f330f2c0d36.png)
