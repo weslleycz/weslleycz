@@ -17,4 +17,4 @@
 <img src="https://user-images.githubusercontent.com/44758448/127243526-aeea661c-a73c-490f-b8ac-5f330f2c0d36.png">
 <h1>Github Stats</h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weslleycz&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weslleycz&show_icons=true&theme=aura_dark)
