@@ -14,6 +14,7 @@
 - 🌱 I’m currently learning <b>React JS</b><br/>
 - 📧 How to reach me:<b> weslleysouza22@gmail.com<br/>
 <h1>Languages and Tools:</h1>
+ <img src="https://weslleycz.github.io/img/html.png">
 <img src="https://user-images.githubusercontent.com/44758448/127243526-aeea661c-a73c-490f-b8ac-5f330f2c0d36.png">
 <h1>Github Stats</h1>
 
