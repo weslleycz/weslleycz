@@ -14,11 +14,9 @@
 - 🌱 I’m currently learning <b>React JS</b><br/>
 - 📧 How to reach me:<b> weslleysouza22@gmail.com<br/>
 <h1>Languages and Tools:</h1>
- <img src="https://user-images.githubusercontent.com/44758448/138819466-2a22d379-0db9-4a98-9c1b-9b8736f33bba.png"> 
+ <img src="https://user-images.githubusercontent.com/44758448/138820043-4ca2fc40-ef45-4604-88db-3e3064851d9f.png"> 
 
 <br>
  <br>
- 
- 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weslleycz&show_icons=true&theme=dark)
 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weslleycz&show_icons=true&theme=dark)
