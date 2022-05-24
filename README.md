@@ -21,7 +21,6 @@
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS" /></a>
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
        <a href="https://pt-br.reactjs.org/docs/getting-started.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-         <a href="https://reactnative.dev" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="36" height="36" alt="React native" /></a>
          <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="scss" /></a>
    <a href="https://nodejs.dev" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="36" height="36" alt="node" /></a>
      <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="36" height="36" alt="docker" /></a>
@@ -29,10 +28,11 @@
          <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="mysql" /></a>
            <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="postgresql" /></a>
              <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303460/redis-logo.svg" width="36" height="36" alt="redis" /></a>
-  
+               <a href="https://www.prisma.io" target="_blank" rel="noreferrer"><img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/287/square_480/prismaHD.png" width="36" height="36" alt="prisma" /></a>
+                 <a href="www.figma.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="36" height="36" alt="Figma" /></a>
+                   <a href="https://www.notion.so/product?fredir=1" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png?20200221181224" width="36" height="36" alt="Notion" /></a>
 </p>
 
-<br>
  <br>
  
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleycz&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=fffff&bg_color=151515&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
