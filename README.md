@@ -2,7 +2,7 @@
 <h1 align="center">I'm Francisco Weslley👋</h1>
 <h3 align="center">I am a young developer looking to increase my knowledge.</h3> 
 <br/>
-<a href="https://weslleycz.github.io"> <img align="center" height="550" alt="Francisco Weslley | Portfolio" src="https://user-images.githubusercontent.com/44758448/188067736-e25037a8-6f00-4f50-9a23-b20780e19e5d.svg" /> </a>
+<a href="https://weslleycz.github.io"> <img align="center" height="560" alt="Francisco Weslley | Portfolio" src="https://user-images.githubusercontent.com/44758448/188067736-e25037a8-6f00-4f50-9a23-b20780e19e5d.svg" /> </a>
 <br/>
 <h1>Connect with me:</h1>
 <a href="https://weslleycz.github.io"> <img align="left" alt="Francisco Weslley | Portfolio" width="40px" src="https://user-images.githubusercontent.com/44758448/138776737-34bb4409-2329-4634-886a-29242f2f314f.png" /> </a>
@@ -11,7 +11,7 @@
 <a href="https://twitter.com/Goik69470460"><img align="left" alt="Francisco Weslley | Twitter" width="40px" src="https://user-images.githubusercontent.com/44758448/138777300-80ee9c2a-e7c0-4cad-8928-d2c798a6a2c7.png" /></a>
 <br>
 </br>
-- 🌱 I’m currently learning <b>React JS</b><br/>
+- 🌱 I’m currently learning <b>React Native JS</b><br/>
 - 📧 How to reach me:<b> weslleysouza22@gmail.com<br/>
 <h1>Languages and Tools:</h1>
  <p align="left">
@@ -21,7 +21,9 @@
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS" /></a>
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
        <a href="https://pt-br.reactjs.org/docs/getting-started.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-         <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="scss" /></a>
+        <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="nextjs" /></a>
+         <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="java" /></a>
+                  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="scss" /></a>
    <a href="https://nodejs.dev" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="36" height="36" alt="node" /></a>
      <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="36" height="36" alt="docker" /></a>
        <a href="https://www.mongodb.com/docs/manual/tutorial/getting-started/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="mongodb" /></a>
