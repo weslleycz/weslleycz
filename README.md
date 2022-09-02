@@ -2,7 +2,7 @@
 <h1 align="center">I'm Francisco Weslley👋</h1>
 <h3 align="center">I am a young developer looking to increase my knowledge.</h3> 
 <br/>
-<a href="https://weslleycz.github.io"> <img align="left" alt="Francisco Weslley | Portfolio" src="https://user-images.githubusercontent.com/44758448/138777781-d58e4dbe-8b7a-4364-a667-5ae4dedfa5be.png" /> </a>
+<a href="https://weslleycz.github.io"> <img align="center" height="550" alt="Francisco Weslley | Portfolio" src="https://user-images.githubusercontent.com/44758448/188067736-e25037a8-6f00-4f50-9a23-b20780e19e5d.svg" /> </a>
 <br/>
 <h1>Connect with me:</h1>
 <a href="https://weslleycz.github.io"> <img align="left" alt="Francisco Weslley | Portfolio" width="40px" src="https://user-images.githubusercontent.com/44758448/138776737-34bb4409-2329-4634-886a-29242f2f314f.png" /> </a>
