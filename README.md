@@ -2,15 +2,30 @@
 <h1 align="center">I'm Francisco Weslley👋</h1>
 <h3 align="center">I am a young developer looking to increase my knowledge.</h3> 
 <br/>
-<a href="https://weslleycz.github.io"> <img align="center" height="560" alt="Francisco Weslley | Portfolio" src="https://user-images.githubusercontent.com/44758448/188067736-e25037a8-6f00-4f50-9a23-b20780e19e5d.svg" /> </a>
+<p align="center">
+<a  href="https://weslleycz.github.io"> <img align="center" height="450" alt="Francisco Weslley | Portfolio" src="https://user-images.githubusercontent.com/44758448/188255159-1649b32e-9d75-4629-b716-17a455b9f7a9.png" /> </a>
+</p>
 <br/>
 <h1>Connect with me:</h1>
-<a href="https://weslleycz.github.io"> <img align="left" alt="Francisco Weslley | Portfolio" width="40px" src="https://user-images.githubusercontent.com/44758448/138776737-34bb4409-2329-4634-886a-29242f2f314f.png" /> </a>
-<a href="https://www.linkedin.com/in/francisco-weslley/"><img align="left" alt="Francisco Weslleya | LinkedIn" width="40px" src="https://user-images.githubusercontent.com/44758448/138776485-49989992-89bd-47b7-a035-195385ca01ea.png" /></a>
-<a href="https://www.instagram.com/goik.png/"><img align="left" alt="Francisco Weslley | Instagram" width="40px" src="https://user-images.githubusercontent.com/44758448/138777040-fe16d4c9-6110-4f4c-a630-c5fc1f22dc3f.png" /></a>
-<a href="https://twitter.com/Goik69470460"><img align="left" alt="Francisco Weslley | Twitter" width="40px" src="https://user-images.githubusercontent.com/44758448/138777300-80ee9c2a-e7c0-4cad-8928-d2c798a6a2c7.png" /></a>
-<br>
-</br>
+ <p align="left">
+ 
+ <a href="https://weslleycz.github.io">
+<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+</a>
+
+ <a href="https://twitter.com/Goik69470460">
+<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+</a>
+
+ <a href="https://www.instagram.com/goik.js/">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+</a>
+
+ <a href="https://www.linkedin.com/in/francisco-weslley/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</p>
 - 🌱 I’m currently learning <b>React Native JS</b><br/>
 - 📧 How to reach me:<b> weslleysouza22@gmail.com<br/>
 <h1>Languages and Tools:</h1>
