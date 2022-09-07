@@ -9,7 +9,7 @@
 <h1>Connect with me:</h1>
  <p align="left">
  
- <a href="https://weslleycz.github.io">
+ <a href="https://weslley-hsstac7kk-weslleycz.vercel.app">
 <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
 
