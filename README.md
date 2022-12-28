@@ -52,6 +52,7 @@
 
  <br>
  
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleycz&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=fffff&bg_color=151515&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weslleycz&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=transparent)
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weslleycz&show_icons=true&theme=dark)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weslleycz&count_private=true)
+ 
