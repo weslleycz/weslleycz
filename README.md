@@ -50,10 +50,9 @@
       <a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/44758448/209844279-2328f018-7108-4d8d-8593-0dd6f9862586.svg" width="36" height="36" alt="jest" /></a>
                  <a href="https://www.figma.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-
  <br>
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weslleycz&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=transparent)
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=weslleycz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weslleycz&count_private=true)
- 
+
+
