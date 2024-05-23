@@ -35,19 +35,21 @@
   <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="Typescript" /></a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS" /></a>
-      <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="36" height="36" alt="Tailwind" /></a>
+            <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/material-ui-icon-2048x1626-on580ia9.png" width="36" height="36" alt="material-ui" /></a>
           <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="36" height="36" alt="sass" /></a>
        <a href="https://pt-br.reactjs.org/docs/getting-started.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
         <a href="https://nextjs.org" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/nextjs-boilerplate-logo.png" width="36" height="36" alt="nextjs" /></a>
-         <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" width="36" height="36" alt="kotlin" /></a>
+         <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://nestjs.com/logo-small-gradient.76616405.svg" width="36" height="36" alt="nestjs" /></a>
               <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="java" /></a>
                 <a href="https://spring.io" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" width="36" height="36" alt="spring" /></a>
-     <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="docker" /></a>
+       <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://wiki.hornbill.com/images/7/70/Docker_logo.png" width="36" height="36" alt="docker" /></a>
+     <a href="https://www.portainer.io/" target="_blank" rel="noreferrer"><img src="https://repository-images.githubusercontent.com/725794693/3b812728-09ec-4db5-b03b-b9f48cc439e3" width="36" height="36" alt="portainer" /></a>
+         <a href="https://nginx.org/en/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373924/nginx.svg" width="36" height="36" alt="nginx" /></a>
        <a href="https://www.mongodb.com/docs/manual/tutorial/getting-started/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="mongodb" /></a>
            <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="postgresql" /></a>
              <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303460/redis-logo.svg" width="36" height="36" alt="redis" /></a>
                <a href="https://www.prisma.io" target="_blank" rel="noreferrer"><img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/287/square_480/prismaHD.png" width="36" height="36" alt="prisma" /></a>
-      <a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/44758448/209844279-2328f018-7108-4d8d-8593-0dd6f9862586.svg" width="36" height="36" alt="jest" /></a>
+                 <a href="https://ionicframework.com/" target="_blank" rel="noreferrer"><img src="https://www.geekandjob.com/uploads/wiki/f6977cfa0930098d4dcfa71f9c140b06.png" width="36" height="36" alt="Ionic" /></a>
                  <a href="https://www.figma.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="36" height="36" alt="Figma" /></a>
 </p>
  <br>
