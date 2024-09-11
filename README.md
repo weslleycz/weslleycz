@@ -31,10 +31,7 @@
 - 📧 How to reach me:<b> weslleysouza22@gmail.com<br/>
 <h1>Languages and Tools:</h1>
  <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
   <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="Typescript" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS" /></a>
             <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="36" height="36" alt="material-ui" /></a>
           <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="36" height="36" alt="sass" /></a>
        <a href="https://pt-br.reactjs.org/docs/getting-started.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
@@ -45,6 +42,7 @@
        <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://wiki.hornbill.com/images/7/70/Docker_logo.png" width="36" height="36" alt="docker" /></a>
      <a href="https://www.portainer.io/" target="_blank" rel="noreferrer"><img src="https://repository-images.githubusercontent.com/725794693/3b812728-09ec-4db5-b03b-b9f48cc439e3" width="36" height="36" alt="portainer" /></a>
          <a href="https://nginx.org/en/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373924/nginx.svg" width="36" height="36" alt="nginx" /></a>
+           <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="36" height="36" alt="kubernetes" /></a>
        <a href="https://www.mongodb.com/docs/manual/tutorial/getting-started/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="mongodb" /></a>
            <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="postgresql" /></a>
              <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303460/redis-logo.svg" width="36" height="36" alt="redis" /></a>
