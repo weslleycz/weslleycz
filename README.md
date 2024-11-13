@@ -36,7 +36,7 @@
           <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="36" height="36" alt="sass" /></a>
        <a href="https://pt-br.reactjs.org/docs/getting-started.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
         <a href="https://nextjs.org" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/nextjs-boilerplate-logo.png" width="36" height="36" alt="nextjs" /></a>
-         <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://nestjs.com/logo-small-gradient.76616405.svg" width="36" height="36" alt="nestjs" /></a>
+         <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/2120px-NestJS.svg.png" width="36" height="36" alt="nestjs" /></a>
               <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="java" /></a>
                 <a href="https://spring.io" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" width="36" height="36" alt="spring" /></a>
        <a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://wiki.hornbill.com/images/7/70/Docker_logo.png" width="36" height="36" alt="docker" /></a>
