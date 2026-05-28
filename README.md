@@ -59,7 +59,7 @@
     <img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" width="36" height="36" alt="Next.js" />
   </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/2120px-NestJS.svg.png" width="36" height="36" alt="NestJS" />
+    <img src="https://nestjs.com/logo-small-gradient.0ed287ce.svg" width="36" height="36" alt="NestJS" />
   </a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
