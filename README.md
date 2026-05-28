@@ -1,44 +1,30 @@
 # Francisco Weslley
 
-<h3 align="center">Full Stack Developer focused on building modern, scalable, and reliable digital products.</h3>
+<p align="center">
+  Full Stack Developer focused on building modern, scalable, and reliable digital products.
+</p>
 
 <p align="center">
-  <a href="https://www.devweslley.com.br/">
-    <img
-      src="https://user-images.githubusercontent.com/44758448/188255159-1649b32e-9d75-4629-b716-17a455b9f7a9.png"
-      alt="Francisco Weslley | Portfolio"
-      width="900"
-    />
-  </a>
+  <a href="https://www.devweslley.com.br/">Website</a> •
+  <a href="https://www.linkedin.com/in/francisco-weslley/">LinkedIn</a> •
+  <a href="https://twitter.com/Goik69470460">Twitter</a> •
+  <a href="mailto:weslleysouza22@gmail.com">Email</a>
 </p>
 
-## About Me
+## About
 
-- Full Stack Developer passionate about technology, product development, and continuous learning.
-- Currently focused on improving my skills in `DevOps`, cloud infrastructure, and scalable architectures.
-- I enjoy working across frontend, backend, databases, and deployment pipelines.
+I am a Full Stack Developer with experience building web applications, APIs, and scalable backend services. My work is centered on creating products that combine solid engineering, maintainable architecture, and a strong focus on user value.
 
-## Connect With Me
+I enjoy working across the full development lifecycle, from interface implementation to infrastructure, deployment, and performance improvements.
 
-<p align="left">
-  <a href="https://www.devweslley.com.br/">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://twitter.com/Goik69470460">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.instagram.com/goik.js/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/francisco-weslley/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+## Core Expertise
 
-## Contact
-
-- Email: `weslleysouza22@gmail.com`
-- Website: [devweslley.com.br](https://www.devweslley.com.br/)
+- Full Stack application development
+- Backend architecture and API design
+- Frontend interfaces with modern JavaScript frameworks
+- Database modeling and integration
+- DevOps practices, containerization, and deployment workflows
+- Scalable and maintainable software solutions
 
 ## Tech Stack
 
